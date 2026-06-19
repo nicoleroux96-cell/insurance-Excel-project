@@ -56,9 +56,11 @@ Final Risk Level (column P)
 -	Is “Medium” if “Final Risk Score” is 3 or 4
 -	Is “Low” if “Final Risk Score” is 2 or less
 
-### policy table
+### add policy table screenshot 
 
 ![policy table](screenshots/policy table.png)
+
+### “Policy Table” sheet
 
 
 
