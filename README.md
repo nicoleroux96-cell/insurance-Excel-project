@@ -1,4 +1,3 @@
-<img width="1741" height="740" alt="policy table" src="https://github.com/user-attachments/assets/369226c3-cde0-43a1-b749-40a6cf813973" />
 # underwriting-Excel-project
 
 
@@ -58,6 +57,7 @@ Final Risk Level (column P)
 -	Is “Low” if “Final Risk Score” is 2 or less
 
 ### add policy table screenshot 
+<img width="1741" height="740" alt="policy table" src="https://github.com/user-attachments/assets/369226c3-cde0-43a1-b749-40a6cf813973" /><img width="1760" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/16f4c3dd-cd49-4c34-ad14-23950e6b5e34" />
 
 ![policy table](screenshots/policy table.png)
 --------------------------------
