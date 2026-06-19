@@ -1,9 +1,9 @@
-# underwriting-Excel-project
+# Insurance Underwriting Portfolio Analysis
 
 
-## Overview
+## Project Overview
 
-I built a dynamically updating underwriting portfolio workbook that tracks individual policy risk, portfolio risk distribution, claims activity and renewal urgency using Excel dashboards, PivotTables, PivotCharts, conditional logic, data validation, and underwriting scoring models. 
+This is a dynamically updating underwriting portfolio workbook that tracks individual policy risk, portfolio risk distribution, claims activity and renewal urgency using Excel dashboards, PivotTables, PivotCharts, conditional logic, data validation, and underwriting scoring models. 
 
 This workbook contains multiple worksheets used to organize, analyze, and summarize insurance-related data using Excel formulas, reporting tools, and data analysis techniques.
 
