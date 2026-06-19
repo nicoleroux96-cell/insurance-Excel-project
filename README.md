@@ -78,7 +78,7 @@ Final Risk Level (column P)
 -	If number is between 21 and 40, it will be shaded yellow 
 -	If number is 41 or more, it will be shaded red
 
-
+OTHER AREAS
 -	”Todays Date” in the upper right is the date that the spreadsheet views as the current day
 -	Changing it will alter the “Policy Table” sheet, as it influences the “Days Until Expiry” of each policy, and thus also the “Policy Status” and which policies are treated as “Expired”
 -	Changing it will also affect the “POLICIES EXPIRING SOON (WITHIN 30 DAYS)” box on this sheet
