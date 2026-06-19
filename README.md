@@ -7,6 +7,14 @@ This is a dynamically updating underwriting portfolio workbook that tracks indiv
 
 This workbook contains multiple worksheets used to organize, analyze, and summarize insurance-related data using Excel formulas, reporting tools, and data analysis techniques.
 
+## Viewing the Workbook
+
+To interact with the workbook itself:
+
+1. Open the Excel file in this repository ('underwriting_project_workbook.xlsx')
+2. Click the download button on the right side of the grey bar
+3. Open using Microsoft Excel.
+
 ## Workbook Structure
 
 ### “Policy Table” sheet
@@ -98,11 +106,5 @@ OTHER AREAS
 - Data Analysis
 - Reporting
 
-## Viewing the Workbook
 
-To interact with the workbook itself:
-
-1. Open the Excel file in this repository ('underwriting_project_workbook.xlsx')
-2. Click the download button on the right side of the grey bar
-3. Open using Microsoft Excel.
 
