@@ -11,9 +11,9 @@ This workbook contains multiple worksheets used to organize, analyze, and summar
 
 To interact with the workbook itself:
 
-1. Open the Excel file in this repository ('underwriting_project_workbook.xlsx')
+1. Open the Excel file in this repository ('insurance_project_workbook.xlsx')
 2. Click the download button on the right side of the grey bar
-3. Open using Microsoft Excel.
+3. Open using Microsoft Excel
 
 ## Workbook Structure
 
